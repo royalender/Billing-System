@@ -1,7 +1,7 @@
 # **Billing-System**
 Billing System with Python and MySql
 
-#Libraries Incl.
+Libraries Incl.
 Here’s a list of libraries used in the Bill Management System code:
 
 1. **Tkinter**: 
